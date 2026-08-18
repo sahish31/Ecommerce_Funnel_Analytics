@@ -293,6 +293,9 @@ Power BI • DAX • Data Visualization • KPI Development • Business Analysi
 
 
 
+<img width="1380" height="806" alt="Screenshot 2026-08-18 155353" src="https://github.com/user-attachments/assets/2aca3e8c-b675-4ace-aeac-995de119bec0" />
+
+
 
 
 
