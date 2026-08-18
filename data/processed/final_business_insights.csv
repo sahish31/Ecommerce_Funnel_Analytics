@@ -1,0 +1,7 @@
+problem,evidence,recommendation,priority
+Product View → Add to Cart has highest funnel leakage,59.77% drop-off; stage conversion is 40.23%,Improve product-page UX and make Add to Cart CTA more visible,High
+Mobile users have low conversion,Mobile conversion is 4.18% vs Desktop at 10.63%,"Optimize mobile layout, navigation and CTA placement",High
+Facebook has very low conversion,Facebook conversion is 1.82%,"Review Facebook targeting, ad messaging and landing-page alignment",High
+New customers have low conversion,New customer conversion is 3.04% vs Returning at 16.45%,Simplify onboarding and signup/checkout experience for new users,High
+Mobile + Facebook + New customers are a high-risk segment,"0.42% conversion across 9,222 sessions",Prioritize mobile Facebook campaigns and improve the new-user mobile journey,Very High
+Returning customers generate much higher revenue per visitor,"₹2,834.66 revenue/visitor vs ₹512.32 for New customers","Invest in retention, remarketing, loyalty and personalized email campaigns",Medium

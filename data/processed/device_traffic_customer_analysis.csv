@@ -1,0 +1,49 @@
+device,traffic_source,customer_type,sessions,purchases,conversion_rate
+Desktop,Direct,New,5360,379,7.07089552238806
+Desktop,Direct,Returning,1750,718,41.02857142857143
+Desktop,Email,New,4736,657,13.872466216216218
+Desktop,Email,Returning,1501,867,57.76149233844103
+Desktop,Facebook,New,5355,62,1.157796451914099
+Desktop,Facebook,Returning,1835,166,9.04632152588556
+Desktop,Google,New,8949,653,7.2969046820873835
+Desktop,Google,Returning,2904,1200,41.32231404958678
+Desktop,Instagram,New,8322,160,1.9226147560682527
+Desktop,Instagram,Returning,2659,314,11.808950733358406
+Desktop,Paid Ads,New,5583,176,3.1524270105677954
+Desktop,Paid Ads,Returning,1676,295,17.60143198090692
+Desktop,Referral,New,3432,169,4.924242424242424
+Desktop,Referral,Returning,1149,303,26.370757180156655
+Desktop,YouTube,New,3441,86,2.4992734670154024
+Desktop,YouTube,Returning,1168,154,13.184931506849315
+Mobile,Direct,New,9168,287,3.130453752181501
+Mobile,Direct,Returning,2971,467,15.718613261528105
+Mobile,Email,New,7646,357,4.669108030342663
+Mobile,Email,Returning,2522,711,28.191911181601903
+Mobile,Facebook,New,9222,39,0.4229017566688354
+Mobile,Facebook,Returning,2982,97,3.2528504359490276
+Mobile,Google,New,15041,411,2.732531081709993
+Mobile,Google,Returning,5075,803,15.822660098522167
+Mobile,Instagram,New,13641,89,0.652444835422623
+Mobile,Instagram,Returning,4684,190,4.056362083689154
+Mobile,Paid Ads,New,9348,110,1.176722293538725
+Mobile,Paid Ads,Returning,3199,199,6.220693966864645
+Mobile,Referral,New,6008,110,1.8308921438082555
+Mobile,Referral,Returning,2123,225,10.598210080075365
+Mobile,YouTube,New,6032,48,0.7957559681697612
+Mobile,YouTube,Returning,2092,114,5.449330783938815
+Tablet,Direct,New,710,14,1.971830985915493
+Tablet,Direct,Returning,272,30,11.029411764705882
+Tablet,Email,New,582,12,2.0618556701030926
+Tablet,Email,Returning,227,42,18.502202643171806
+Tablet,Facebook,New,754,2,0.2652519893899204
+Tablet,Facebook,Returning,279,6,2.1505376344086025
+Tablet,Google,New,1217,18,1.4790468364831553
+Tablet,Google,Returning,426,46,10.7981220657277
+Tablet,Instagram,New,1104,9,0.8152173913043478
+Tablet,Instagram,Returning,379,6,1.58311345646438
+Tablet,Paid Ads,New,760,6,0.7894736842105263
+Tablet,Paid Ads,Returning,267,17,6.367041198501873
+Tablet,Referral,New,475,7,1.4736842105263157
+Tablet,Referral,Returning,140,9,6.428571428571428
+Tablet,YouTube,New,494,5,1.0121457489878543
+Tablet,YouTube,Returning,174,6,3.4482758620689653
